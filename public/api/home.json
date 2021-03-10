@@ -1,0 +1,67 @@
+{
+	"success": true,
+	"data": {
+		"imgList": [{
+			"id": 1,
+			"imgUrl": "//upload.jianshu.io/collections/images/261938/man-hands-reading-boy-large.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+		}, {
+			"id": 2,
+			"imgUrl": "//upload.jianshu.io/collections/images/21/20120316041115481.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+		}],
+		"hotList": [{
+			"id": 1,
+			"rank":1,
+			"writer": "中国人",
+			"imgUrl": "//upload-images.jianshu.io/upload_images/2259045-2986b9be86b01f63?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240",
+			"price":28.00,
+			"oldPrice":32.00
+		}, {
+			"id": 2,
+			"rank":2,
+			"writer": "中国人",
+			"imgUrl": "//upload-images.jianshu.io/upload_images/2259045-2986b9be86b01f63?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240",
+			"price":28.00,
+			"oldPrice":32.00
+		}, {
+			"id": 3,
+			"rank":3,
+			"writer": "中国人",
+			"imgUrl": "//upload-images.jianshu.io/upload_images/2259045-2986b9be86b01f63?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240",
+			"price":28.00,
+			"oldPrice":32.00
+		}, {
+			"id": 4,
+			"rank":4,
+			"writer": "中国人",
+			"imgUrl": "//upload-images.jianshu.io/upload_images/2259045-2986b9be86b01f63?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240",
+			"price":28.00,
+			"oldPrice":32.00
+		}],
+		"bookList": [{
+			"id": 1,
+			"imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-3-7123fd94750759acf7eca05b871e9d17.png",
+			"price":28.00,
+			"oldPrice":32.00,
+			"bookName":"语文",
+			"writer":"中国人",
+			"publisher":"清华出版社",
+			"detailInfo":"很好的书"
+		}, {
+			"id": 2,
+			"imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png",
+			"price":28.00,
+			"oldPrice":32.00,
+			"bookName":"语文",
+			"writer":"中国人",
+			"publisher":"清华出版社",
+			"detailInfo":"很好的书"
+		}],
+		"newBookList":[{
+			"id":1,
+			"detail":"捡史（郭德纲百万畅销经典）最新上线"
+		},{
+			"id":2,
+			"detail":"唐朝的浮光与掠影(独家上线)"
+		}]
+	}
+}

@@ -1,0 +1,53 @@
+{
+  "success":true,
+  "data":[{
+    "bid":1,
+    "bookName":"语文",
+    "price":34.00,
+    "imgUrl":"",
+    "oldPrice":44.00,
+    "publisher":"清华",
+    "writer":"Hozngg"
+  },
+  {
+      "bid":2,
+      "bookName":"语文",
+      "price":34.00,
+      "imgUrl":"",
+      "oldPrice":44.00,
+      "publisher":"清华",
+      "writer":"Hozngg"
+    },
+    {
+      
+        "bid":3,
+        "bookName":"语文",
+        "price":34.00,
+        "imgUrl":"",
+        "oldPrice":44.00,
+        "publisher":"清华",
+        "writer":"Hozngg"
+      },
+      {
+        
+          "bid":4,
+          "bookName":"语文",
+          "price":34.00,
+          "imgUrl":"",
+          "oldPrice":44.00,
+          "publisher":"清华",
+          "writer":"Hozngg"
+        },
+        {
+         
+            "bid":5,
+            "bookName":"语文",
+            "price":34.00,
+            "imgUrl":"",
+            "oldPrice":44.00,
+            "publisher":"清华",
+            "writer":"Hozngg"
+          }
+    
+  ]
+}
